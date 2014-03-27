@@ -1,0 +1,16 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "description": "Extreme Technical Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Jones",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "jade": "~1.3.0",
+    "express": "~3.5.1"
+  }
+}
